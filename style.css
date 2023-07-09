@@ -12,9 +12,11 @@ body {
 .bannar {
   background-image: url('./images/banner/banner3.png');
   max-width:100%;
-  /height: 808px;
+  background-size: cover;
+  /* height: 808px; */
   flex-shrink: 0;
   background-repeat: no-repeat;
+  margin-bottom: 200px;
 }
 
 .bannar-content {
@@ -48,12 +50,13 @@ body {
   padding: 20px;
   margin: 32px;
 }
-/* section releted style */
+/* main section releted style */
 
 .section-content{
   display: flex;
   justify-content: space-around;
   align-items: center;
+  background-size: cover;
 }
 
 .section-hiligh{
@@ -81,10 +84,29 @@ font-weight: 700px;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  margin: 25px 250px 20px 230px  ;
-  padding-right: 98px;
+  margin: 25px 250px 200px 230px  ;
+  background-size: cover;
 }
 
-.section-skill-headline{ 
-    
-} 
+.content-divition{
+  background-image: url('./images/watch.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right:;
+  padding :  ;
+  display: flex;
+  justify-content: space-around;
+}
+
+/* fotter releted style */
+ 
+.footer{
+  width: 1600px;
+height: 577px;
+flex-shrink: 0;
+margin-top: 00px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
