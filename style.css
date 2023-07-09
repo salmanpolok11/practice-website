@@ -48,3 +48,47 @@ body {
   padding: 20px;
   margin: 32px;
 }
+/* section releted style */
+
+.section-content{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.section-hiligh{
+  color: #151414;
+  font-family: Work Sans;
+  font-size: 40px;
+  font-weight: 700;
+}
+.section-heading{
+  text-align: left;
+}
+
+.section-chek-mark{
+  color:  #444343;
+font-size: 16px;
+font-weight: 400;
+}
+.section-skill-headline{
+  color: #151414;
+text-align: center;
+font-size: 40px;
+font-weight: 700px;
+}
+.section-skill-content{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 230px 250px;
+  padding-right: 98px;
+}
+
+.section-skill-headline{ 
+
+
+}
+.section-skill-conteinar{
+  
+}
