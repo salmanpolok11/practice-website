@@ -81,14 +81,10 @@ font-weight: 700px;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  margin: 230px 250px;
+  margin: 25px 250px 20px 230px  ;
   padding-right: 98px;
 }
 
 .section-skill-headline{ 
-
-
-}
-.section-skill-conteinar{
-  
-}
+    
+} 
